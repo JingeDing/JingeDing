@@ -1,10 +1,9 @@
 - 👋 Hi, I’m jingeDing
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in C++,Pyrhon and AI
+- 🌱 I’m currently learning Machine Learning
+- 📫 How to reach -Email:jingeding@gmail.com
 
 <!---
 imagine-cn/imagine-cn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to take a look at your changes.- 💞️ I’m looking to collaborate on ...
 --->
