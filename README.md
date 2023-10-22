@@ -1,6 +1,5 @@
 - 👋 Hi, I’m jingeDing
-- 👀 I’m interested in C++,Pyrhon and AI
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m interested in System,CXL,Storage
 - 📫 How to reach me:jingeding@gmail.com
 
 <!---
