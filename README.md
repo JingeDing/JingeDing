@@ -1,5 +1,5 @@
 - 👋 Hi, I’m jingeDing
-- 👀 I’m interested in System,CXL,Storage
+- 👀 I’m interested in CXL,Storage,System
 - 📫 How to reach me:jingeding@gmail.com
 
 <!---
